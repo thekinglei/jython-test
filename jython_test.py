@@ -1,5 +1,7 @@
 import java.io.File as je
 
-test = je("/root/test_je")
-print test.mkdirs()
-print "end"
+
+if __name__ == "__main__":
+    test = je("/root/test_je")
+    print test.mkdirs()
+    print "end"
