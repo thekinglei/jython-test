@@ -1,3 +1,4 @@
+准备环境：apt-get install jython
 jython:
 	文件保存为*.py
         运行方式为：jython *.py
