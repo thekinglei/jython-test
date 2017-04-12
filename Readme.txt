@@ -6,6 +6,6 @@ jython:
 
 
 jython文件打包jar：
-        引用https://github.com/yishenggudou/jythontools.gi
+        引用https://github.com/yishenggudou/jythontools.git
 
-
+新增说明：jython2.2以后就不维护jythonc了，详情通过https://wiki.python.org/jython/JythonMonthly/Articles/September2006/1 了解，但仍然支持打包成jar包
